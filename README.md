@@ -1,6 +1,6 @@
 PHP_Project_Testing
 ===================
-Beta testing:
+A repo of UI automation testing of open-source software with different testing tools.
 
 Project: phpproject project management : http://phpproject.us/
 The product helps easily create and edit project details with web-based project management software with 
